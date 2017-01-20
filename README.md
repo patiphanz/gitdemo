@@ -1,8 +1,6 @@
-##Summary of Git commands:
+Git Commands
+————————————
+* `git init` - create a new repository in current directory
+* `git food` - this is not a git command. Fix it.
 
-* git init - create a new repository
-* git status - compare working directory with repository
-* git food
-* git lost
-
-Jim Brucker
+Patiphan Srisook
